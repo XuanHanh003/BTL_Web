@@ -42,7 +42,8 @@ Chúng tôi hoan nghênh mọi sự đóng góp từ cộng đồng! Nếu bạn
 Dự án này được phát hành dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
 
 ## Liên Hệ
-Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng mở một issue trên GitHub hoặc gửi thư trực tiếp cho chúng tôi qua ngocminhyc1@gmail.com.
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng mở một issue trên GitHub hoặc gửi thư trực tiếp cho chúng tôi qua xuanhanha1k54@gmail.com
+
 
 ## FAQ
 
